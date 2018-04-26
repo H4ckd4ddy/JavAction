@@ -1,2 +1,2 @@
 # JavAction
-First program to lean Java
+First program to learn Java
