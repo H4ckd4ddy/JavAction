@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chat_client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chat_client_jar</output-path>
+    <root id="archive" name="chat_client.jar">
+      <element id="module-output" name="chat_client" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20180130/json-20180130.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
